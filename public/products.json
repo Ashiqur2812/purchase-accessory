@@ -1,0 +1,190 @@
+[
+  {
+    "product_id": 1,
+    "product_image": "https://i.ibb.co.com/mqrdsSW/elegant-smartphone-composition-23-2149437108.jpg",
+    "product_title": "iPhone 14",
+    "category": "iPhone",
+    "price": 999.99,
+    "description": "The latest iPhone with advanced features and a powerful A15 chip.",
+    "specification": [
+      "6.1-inch OLED display",
+      "128GB storage",
+      "Dual 12MP cameras",
+      "5G"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.9
+  },
+  {
+    "product_id": 2,
+    "product_image": "https://i.ibb.co.com/cczzfsc/elegant-smartphone-composition-23-2149437072.jpg",
+    "product_title": "iPhone 13 Mini",
+    "category": "iPhone",
+    "price": 699.99,
+    "description": "Compact iPhone with great performance and an excellent camera system.",
+    "specification": [
+      "5.4-inch OLED display",
+      "64GB storage",
+      "Dual 12MP cameras",
+      "5G"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_image": "https://i.ibb.co.com/b2ZYPwC/front-view-opened-laptop-wooden-background-23-2148223244.jpg",
+    "product_title": "MacBook Air M2",
+    "category": "MacBook",
+    "price": 1199.99,
+    "description": "Ultra-thin MacBook with M2 chip, providing exceptional performance and battery life.",
+    "specification": [
+      "13.6-inch Retina display",
+      "8GB RAM",
+      "256GB SSD",
+      "M2 chip"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.8
+  },
+  {
+    "product_id": 4,
+    "product_image": "https://i.ibb.co.com/x5fQrfj/laptop-with-screen-that-says-word-ice-screen-532781-4592.jpg",
+    "product_title": "MacBook Pro 14\" M1",
+    "category": "MacBook",
+    "price": 1999.99,
+    "description": "High-performance MacBook Pro with M1 Pro chip, designed for professionals.",
+    "specification": [
+      "14-inch Retina display",
+      "16GB RAM",
+      "512GB SSD",
+      "M1 Pro chip"
+    ],
+    "availability": "This Product is not available in the market",
+    "rating": 4.9
+  },
+  {
+    "product_id": 5,
+    "product_image": "https://i.ibb.co.com/YLrXjyr/black-smart-mobile-phone-smartphone-with-touch-screen-modern-realistic-mobile-device-75563-897.jpg",
+    "product_title": "Galaxy S21",
+    "category": "Mobile",
+    "price": 799.99,
+    "description": "Samsung's flagship with high-end features and a brilliant camera.",
+    "specification": [
+      "6.2-inch AMOLED display",
+      "8GB RAM",
+      "128GB storage",
+      "Triple camera"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.6
+  },
+  {
+    "product_id": 6,
+    "product_image": "https://i.ibb.co.com/x1JBXnd/smartphone-with-gradient-wallpaper-23-2147839162.jpg",
+    "product_title": "OnePlus 9",
+    "category": "Mobile",
+    "price": 729.99,
+    "description": "A powerful phone with fast charging and a high-refresh-rate display.",
+    "specification": [
+      "6.55-inch Fluid AMOLED",
+      "8GB RAM",
+      "128GB storage",
+      "48MP main camera"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.5
+  },
+  {
+    "product_id": 7,
+    "product_image": "https://i.ibb.co.com/j38497C/image.png",
+    "product_title": "Dell XPS 13",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "Sleek, compact, and powerful laptop for professionals and students.",
+    "specification": [
+      "13.3-inch InfinityEdge display",
+      "16GB RAM",
+      "512GB SSD",
+      "Intel i7"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.8
+  },
+  {
+    "product_id": 8,
+    "product_image": "https://i.ibb.co.com/BVVhGzS/open-laptop-with-white-blank-screen-digital-tablet-stationeries-blue-desk-23-2148052715.jpg",
+    "product_title": "HP Pavilion 15",
+    "category": "Laptop",
+    "price": 649.99,
+    "description": "Affordable laptop with excellent performance for everyday use.",
+    "specification": ["15.6-inch display", "8GB RAM", "256GB SSD", "Intel i5"],
+    "availability": "This Product is available in the market",
+    "rating": 4.3
+  },
+  {
+    "product_id": 9,
+    "product_image": "https://i.ibb.co.com/zxxrhVr/watch-series-7-realistic-mockup-carpet-850346-31.jpg",
+    "product_title": "Apple Watch Series 8",
+    "category": "Smartwatch",
+    "price": 399.99,
+    "description": "Apple's latest smartwatch with fitness tracking and health features.",
+    "specification": [
+      "1.9-inch display",
+      "Water-resistant",
+      "Heart rate monitor",
+      "GPS"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.7
+  },
+  {
+    "product_id": 10,
+    "product_image": "https://i.ibb.co.com/YbqXngf/realistic-design-fitness-trackers-23-2148509775.jpg",
+    "product_title": "Samsung Galaxy Watch 4",
+    "category": "Smartwatch",
+    "price": 249.99,
+    "description": "Wear OS-powered smartwatch with health tracking and a sleek design.",
+    "specification": [
+      "1.4-inch display",
+      "ECG support",
+      "GPS",
+      "Sleep tracking"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.5
+  },
+  {
+    "product_id": 11,
+    "product_image": "https://i.ibb.co.com/T88m1Nt/wireless-earbuds-with-neon-cyberpunk-style-lighting-23-2151074301.jpg",
+    "product_title": "Sony WH-1000XM4",
+    "category": "Accessory",
+    "price": 349.99,
+    "description": "Premium noise-canceling headphones with excellent sound quality.",
+    "specification": [
+      "Over-ear",
+      "30-hour battery life",
+      "Noise-canceling",
+      "Bluetooth 5.0"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.9
+  },
+  {
+    "product_id": 12,
+    "product_image": "https://i.ibb.co.com/hHBZ2LB/image.png",
+    "product_title": "Anker PowerCore 20000mAh",
+    "category": "Accessory",
+    "price": 49.99,
+    "description": "High-capacity power bank with fast charging for multiple devices.",
+    "specification": [
+      "20000mAh",
+      "USB-C and USB-A",
+      "18W fast charge",
+      "Portable design"
+    ],
+    "availability": "This Product is available in the market",
+    "rating": 4.4
+  }
+  
+]
