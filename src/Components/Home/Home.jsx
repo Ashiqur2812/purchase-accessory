@@ -1,9 +1,10 @@
-// import PropTypes from 'prop-types';
+import { Helmet } from "react-helmet-async";
 import { useEffect, useState } from "react";
 import { Outlet } from "react-router-dom";
 import Banner from "../Banner/Banner";
 import Categories from "../Categories/Categories";
 import Heading from "../Heading/Heading";
+
 const Home = () => {
   const [categories, setCategories] = useState([]);
   useEffect(() => {
@@ -14,6 +15,9 @@ const Home = () => {
   //   const categories = useLoaderData();
   return (
     <>
+      <Helmet>
+        <title>Purchase Product | Home</title>
+      </Helmet>
       <div className="bg-purple-700 h-[25rem] lg:h-[40rem] text-white rounded-b-3xl mb-40 lg:mb-[33rem]">
         <Heading
           title={"Upgrade Your Tech Accessorize with Gadget Heaven Accessories"}
