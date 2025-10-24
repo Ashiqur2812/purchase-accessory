@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import { NavLink} from "react-router-dom";
 
 const Product = ({ product }) => {
-  // const {pathname} = useLocation
+  
   const { product_id, product_title, product_image, price } = product || {};
   return (
     <>
@@ -25,7 +25,6 @@ const Product = ({ product }) => {
           </NavLink>
         </div>
       </div>
-  
     </>
   );
 };
